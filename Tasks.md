@@ -1,1 +1,1 @@
-- [ ] #task/habit Wake Up by 7:00 AM  [repeat:: every day when done]  [created:: 2024-03-12]  [due:: 2024-03-13]
+- [ ] Task 1
